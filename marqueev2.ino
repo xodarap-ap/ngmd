@@ -200,7 +200,7 @@ void attractmode() {
 }
 
 void manuallight(int index) {
-    for (int i = 0; i < totallights; i++){
+    for (int i = 1; i < totallights; i++){
       if (i == index) {
         digitalWrite(lightpinarray[i], HIGH);
       }
