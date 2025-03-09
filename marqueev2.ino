@@ -215,7 +215,7 @@ void manualchange() {
     if(changebutton == HIGH); {
       lightnumber++;
       if(lightnumber >= totallights); {
-        lightnumber = 0;
+        lightnumber = 1;
       }
       manuallight(lightnumber);
     }
