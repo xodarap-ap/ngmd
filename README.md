@@ -1,6 +1,8 @@
 # Neo Geo Marquee Driver
 
-This is a PCB designed to drive LED or EL panels to replace those in a Neo Geo multi-slot cabinet marquee. Many of these are partially or completely failed, and the EL panels are difficult to source. For those people who want to use EL panels these are readily available with a USB based 5v inverter, and for those who wish to use LED panels either USB based or with direct connection the LED variant has a 12 pin header with 6x 5v outputs
+This is a PCB designed to drive LED or EL panels to replace those in a Neo Geo multi-slot cabinet marquee. Many of these are partially or completely failed, and the EL panels are difficult to source in a form that will work with the original MV-ELA driver board
+
+For those people who want to use EL panels these are readily available with a USB based 5v inverter, and for those who wish to use LED panels either USB based or with direct connection the LED variant has a 12 pin header with 6x 5v outputs
 
 Features
 
