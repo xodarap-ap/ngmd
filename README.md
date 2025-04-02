@@ -34,3 +34,5 @@ Parts required:
 - Optional: 2 pin 2.54mm header for manual switching button (if using cabinet button)
 
 A full BOM with Digikey part numbers has been included in the main directory as BOM.xls
+
+ Warning: This is a project I designed for myself and has not been tested on any other hardware than my own. If you build this board it is at your own risk
