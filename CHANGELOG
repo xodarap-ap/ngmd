@@ -1,4 +1,8 @@
 v1.1
-Added resistors on switch and button header, added decoupling capacitor, added resistors for LEDs to allow coloured LEDs to be used
+- Added resistors on switch and button header
+- Added decoupling capacitor
+- Added resistors for LEDs to allow coloured LEDs to be used
+- Realigned USB ports
+- Realigned screw holes
 v1.01
-First public release
+- First public release
