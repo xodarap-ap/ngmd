@@ -1,8 +1,16 @@
+v1.2
+- Added fuse for main power rail
+- Adjusted location of filtering capacitor
+- Removed 20k resistors
+- Added DIP switch block for setting functions
+- Updated trace routing
+
 v1.1
 - Added resistors on switch and button header
 - Added decoupling capacitor
 - Added resistors for LEDs to allow coloured LEDs to be used
 - Realigned USB ports
 - Realigned screw holes
+
 v1.01
 - First public release
