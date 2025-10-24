@@ -10,10 +10,10 @@ Features
 - USB connectors for EL panel connection
 - Powered by Arduino Nano
 - LED indicators for active panel (for testing/diagnosis of non working panels)
-- Code can be easily reconfigured to allow whichever combination of USB ports you want to use to be active
 - Self test mode at power on to identify any issues
 - Attract mode with adjustable delay (cycles through marquees if you wanted to have a panel but do not have a multi-slot board)
 - Manual mode with button and button header to manually cycle through marquees (similar to attract mode but with manual change)
+- DIP switch to set modes
 
 Files included here:
 
@@ -28,13 +28,13 @@ Parts required:
 - Arduino Nano or equivalent
 - N-Channel MOSFETs x 6 (TO-220 package)
 - 3mm LEDs x 6
+- 200 Ohm Resistor x 6
 - USB A connectors x 6
 - 2.54mm header pins and sockets (for mounting Arduino)
-- 12 pin 2.54mm header (LED variant only)
+- 4 Pin DIP Switch Block
 - Optional: 5mm switch for manual switching
-- Optional: 20k resistor (required if using manual switching)
 - Optional: 2 pin 2.54mm header for manual switching button (if using cabinet button)
 
-A full BOM with Digikey part numbers has been included in the main directory as BOM.xls
+A full BOM with Digikey part numbers will be uploaded soon
 
  Warning: This is a project I designed for myself and has not been tested on any other hardware than my own. If you build this board it is at your own risk
