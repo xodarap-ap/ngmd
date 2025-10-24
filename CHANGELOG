@@ -4,6 +4,7 @@ v1.2
 - Removed 20k resistors
 - Added DIP switch block for setting functions
 - Updated trace routing
+- Deprecated version 1.1 code base
 
 v1.1
 - Added resistors on switch and button header
