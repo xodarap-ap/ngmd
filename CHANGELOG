@@ -5,6 +5,7 @@ v1.2
 - Added DIP switch block for setting functions
 - Updated trace routing
 - Deprecated version 1.1 code base
+- Deprecated non-USB variant
 
 v1.1
 - Added resistors on switch and button header
