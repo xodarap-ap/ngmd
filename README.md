@@ -19,7 +19,7 @@ Files included here:
 
 Releases will be updated with Gerbers for the latest version of both PCB variants to allow you to order boards from whichever manufacturer you prefer. The Gerbers will also be available separately outside of a ZIP file in case you need these. PCB design files will be available under the PCB folder and will be the current variant under releases with previous versions under Deprecated if required. The .ino file in the main directory is the code to run the PCB and will work across both PCB variants
 
-Edit: An alternate version marqueev2_4slot has been added as a custom version for a 4 slot board to enable the 4 bottom ports only
+Edit: As of version 1.2 the non USB version has been deprecated as has the original code base. Revision 1.2 has a DIP switch block to set functions previously only controllable in software
 
 Parts required:
 
